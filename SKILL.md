@@ -1,154 +1,301 @@
 ---
 name: gizem-akdag-study
-description: Study and apply a non-official, feature-based method informed by observations of Gizem Akdag's surreal photography. Use when analyzing a real photograph, planning an image edit or generation, writing an image prompt, critiquing a draft, or iterating toward restrained poetic surrealism through visual distillation, relational displacement, structural color, and photographic credibility. Do not use it to claim official affiliation, endorsement, or authorship by the photographer.
+description: Study-driven workflow for reauthoring real photographs into restrained, poetic surreal editorial images by observing reality first, purifying visual structure, redesigning relationships, and building a believable new visual world. Use for travel, documentary, portrait, landscape, architecture, street, or animal photos when the goal is surreal art direction rather than ordinary retouching.
 ---
 
-# Gizem Akdag Study
+# Gizem Akdag Study — v2.0
 
-将本 Skill 视为持续学习的视觉研究方法，不要把它当作滤镜、固定配方或官方风格授权。始终从当前照片自身的现实关系出发，生成一套新的、可解释的视觉逻辑。
+> Study-oriented visual workflow. Not an official skill by Gizem Akdag and not a claim of authorship or endorsement.
 
-## 核心链路
+## Core thesis
 
-严格按顺序执行：
+**Reality first. Surrealism second.**
 
-**现实 → 观察 → 提纯 → 关系错位 → 诗意荒诞 → 新现实**
+Primary chain:
 
-不得跳过“观察”直接添加超现实元素。不得把“新现实”理解为任意换背景或堆砌奇观。
+**Reality → Observe → Purify → Recompose relationships → Poetic absurdity → New reality**
 
-## 读取参考资料
+The goal is not to add “surreal objects.”
+The goal is to make the original reality obey a newly designed visual logic while preserving enough photographic credibility that the scene still feels photographed rather than illustrated.
 
-只读取当前任务需要的文件：
+## What changed in v2.0
 
-- 判断整体视觉语言与现实锚点：读取 [references/visual-language.md](references/visual-language.md)。
-- 重组画面、重复、尺度、位置或留白：读取 [references/composition.md](references/composition.md)。
-- 设计色彩、层次和空间结构：读取 [references/color.md](references/color.md)。
-- 设计关系错位与诗意荒诞：读取 [references/surrealism.md](references/surrealism.md)。
-- 诊断生成结果、修正俗套或迭代：读取 [references/failure-patterns.md](references/failure-patterns.md)。
+This version deliberately removes earlier formulaic behavior.
 
-## 执行流程
+Do **not** treat any of the following as mandatory:
+- one-impossibility rule
+- giant-object transformation
+- white doorway / portal motif
+- fixed minimal composition
+- fixed palette
+- global high saturation
+- isolated-subject composition
+- cinematic beautification
+- “one obvious surreal trick”
 
-### 1. 读真实照片
+These are optional tools only.
 
-先只描述看得见的事实，不解释、不美化：
+The skill should avoid turning a method into a recipe.
 
-- 识别地点、光线、天气、时间感、视角、镜头距离和画面边界。
-- 识别人物、动物、建筑、植物、地形、水体、道路和物件。
-- 标出重复、节奏、方向线、纹理、空白与大色块。
-- 区分现实锚点、可删除噪音和不可确认信息。
+## Hard principles
 
-若没有照片但任务要求改造特定照片，先请用户提供照片。若任务只是概念研究，可从用户描述继续，但必须标明假设。
+### 1. Read the real photograph before designing anything
+Identify:
+- the irreplaceable memory anchor
+- the visual protagonist
+- accidental relationships already present
+- gestures, posture, clothing, animals, cultural details
+- dominant lines, repetitions, silhouettes, textures, color masses
+- what makes this particular photograph non-interchangeable
 
-### 2. 找环境秩序
+Do not erase the reason this specific photo matters.
 
-确定画面已经存在的主导秩序，例如：树列、窗格、波纹、坡面、云层、道路、墙体或重复人群。优先放大原图中真实存在的秩序，不要凭空发明与原图无关的主题。
+### 2. Relationship before object
+Prefer changing:
+- scale relationship
+- spatial hierarchy
+- position
+- material continuity
+- visual ownership
+- repetition
+- rhythm
+- figure/ground
+- functional logic
+- color hierarchy
+- body/environment relationship
 
-用一句话写出“现实命题”：
+before inserting a new object.
 
-> 这张照片真正成立，是因为 ______ 与 ______ 形成了 ______ 关系。
+A surreal object with no relationship to the source is usually weaker than a familiar source element whose role has been rewritten.
 
-### 3. 删除视觉噪音
+### 3. Design a visual proposition before generating
+Before execution, formulate **3 distinct visual propositions**.
 
-删除与现实命题无关、争夺注意力或破坏节奏的元素。保留能证明地点、尺度、材质、光线或事件真实性的细节。删除不是清空；至少保留一个明确现实锚点。
+Each proposition should state:
+- memory anchor
+- what gets purified
+- what relationship is rewritten
+- why the result is interesting
+- what keeps it photographically believable
 
-### 4. 建立视觉母体
+Reject the first obvious idea when it is merely:
+- make X gigantic
+- add a portal
+- add a moon
+- add fog
+- replace background
+- make everything saturated
 
-从原图选择一个主导场域，让它承担大面积画面：天空、水、草地、树林、岩壁、雪、沙、雾或建筑表面均可成为视觉母体。优先扩展、重复或提纯已有自然与环境结构，不要把母体当成装饰背景。
+Prefer the proposition that is hardest to summarize as a single gimmick.
 
-### 5. 提纯视觉符号
+### 4. Preserve photographic credibility
+The final world may be impossible, but:
+- light should feel coherent
+- materials should have believable texture
+- perspective should remain intentional
+- people/animals should retain physical presence
+- the image should still feel captured by a camera
 
-将人物、动物或建筑压缩为易读的孤立符号：
+### 5. Build a new world, not a prettier photo
+If the result is only:
+- cleaner
+- more cinematic
+- more saturated
+- more symmetrical
+- more dramatic
 
-- 简化轮廓、姿态和局部色彩。
-- 减少无关叙事信息。
-- 保留能够支撑身份、动作和摄影真实性的关键细节。
-- 让主体与视觉母体之间形成清楚的图形关系。
+then the transformation is incomplete.
 
-不要把真实主体磨成塑料、插画或无身份的剪影，除非用户明确要求。
+The world itself must feel re-authored.
 
-### 6. 选择关系错位
+## The two-look test
 
-只选择一个主错位，必要时增加一个从属错位：
+A strong result should support two readings:
 
-- **尺度**：主体与环境的大小关系改变。
-- **位置**：熟悉对象被置于不寻常但视觉上有因果的位置。
-- **功能**：对象保留外形，却承担另一种空间或叙事功能。
-- **色彩**：颜色脱离写实分配，转而组织注意力、重量和距离。
-- **空间关系**：前后、上下、内外、地平线或透视关系被重新定义。
+**First look:** coherent, beautiful, photographically convincing.
 
-错位必须从现实命题生长，并与原图中的形状、节奏、材质或动作发生联系。无法解释这种联系时，放弃该错位。
+**Second look:** “Wait — why does this world work like that?”
 
-### 7. 用颜色构图
+If the surreal mechanism is immediately obvious and fully explained in one sentence, it may be too shallow.
 
-为每个主色指定职责：视觉母体、主体识别、空间分层、节奏重复或注意力转移。优先使用少量大色域与一个受控强调色。不要只做电影调色、青橙对比、统一褪色或表面“高级感”。
+## Visual operations
 
-### 8. 保持摄影真实性
+Use selectively. Never stack them by default.
 
-即使关系不可能，照片仍应像被相机记录：
+### A. Purification
+Reduce:
+- clutter
+- incidental signage
+- unnecessary background detail
+- competing colors
+- weak visual fragments
 
-- 保持统一的光源方向、阴影逻辑、透视、景深与天气。
-- 保留适度的材质差异、边缘过渡、空气透视和影像颗粒。
-- 让错位对象与场景发生接触、遮挡、反射或投影。
-- 避免过度锐化、塑料皮肤、无来源辉光和完美无瑕表面。
+Convert reality into clearer:
+- fields
+- silhouettes
+- textures
+- shapes
+- rhythms
 
-真实性不是完全写实；它是让不可能的关系拥有可信的摄影证据。
+### B. Relationship displacement
+Possible axes:
+- scale
+- position
+- distance
+- depth
+- repetition
+- density
+- function
+- material
+- color
+- direction
+- symmetry/asymmetry
 
-### 9. 输出转化方案
+### C. Form rhyme
+Let separate things echo one another:
+- hair ↔ landscape
+- dress ↔ flower
+- foliage ↔ clothing
+- road ↔ river
+- cloud ↔ architecture
+- crowd ↔ graphic shape
+- water ↔ ribbon/path
+- roofline ↔ mountain
 
-除非用户指定格式，按以下顺序输出：
+This is often stronger than adding unrelated fantasy elements.
 
-1. **现实读取**：客观描述原图与不确定项。
-2. **视觉秩序**：指出重复、母体、锚点和噪音。
-3. **转化命题**：用一句话说明要建立的新关系。
-4. **保留 / 删除 / 提纯**：列出具体对象。
-5. **主错位**：说明类型、依据与空间实现。
-6. **色彩结构**：说明每个主色的构图职责。
-7. **真实性约束**：说明光、透视、材质、接触和镜头逻辑。
-8. **执行稿**：按用户需要提供编辑说明、生成提示词或批评意见。
+### D. Material continuity / environmental fusion
+Allow subject and environment to begin sharing a visual system:
+- vegetation entering clothing
+- hair behaving like terrain
+- architecture taking on geological logic
+- landforms becoming fabric-like
+- water taking on graphic or architectural behavior
 
-若用户要求直接编辑或生成图像，先完成以上判断，再调用可用图像工具。不得用提示词长度代替视觉决策。
+The subject stays recognizable while its visual role changes.
 
-## 决策检查表
+### E. Visual field construction
+Backgrounds can become large unified fields:
+- forest as texture
+- sky as a deep color plane
+- water as a graphic surface
+- grassland as a soft sculptural field
 
-生成或交付前逐项检查；任何关键项为“否”时先修正：
+Do not confuse this with simply increasing saturation.
 
-- [ ] 是否先读了真实照片，而不是先选风格效果？
-- [ ] 是否能指出原图自身的环境秩序或重复？
-- [ ] 是否保留至少一个现实锚点？
-- [ ] 删除是否服务于主命题，而不是单纯清空画面？
-- [ ] 自然或环境母体是否承担构图，而非只做背景？
-- [ ] 主体是否被提纯为清楚但仍有身份的视觉符号？
-- [ ] 是否只有一个主错位，且能解释它为何来自原图？
-- [ ] 颜色是否承担重量、节奏、距离或空间分层？
-- [ ] 不可能关系是否有光影、透视、接触和材质证据？
-- [ ] 结果是否避免月亮、雾、奇观或换背景等快捷手段？
-- [ ] 结果是否形成新的现实关系，而不只是更漂亮？
-- [ ] 表述是否明确为非官方学习研究，而非摄影师本人作品？
+### F. Symbolic compression
+A person, animal, building, or object can shift from “thing” to “visual sign” through:
+- distance
+- repetition
+- isolation
+- silhouette
+- limited color
+- simplified surrounding information
 
-## 快速失败闸门
+## Color logic
 
-出现以下任一情况时停止交付并重做：
+See [references/color.md](references/color.md).
 
-- 超现实元素与原图没有形状、节奏、功能或空间联系。
-- 删除错位后，作品只剩普通电影调色或商业精修。
-- 画面依赖巨月、泛雾、漂浮物、发光门户等通用奇幻符号。
-- 所有区域都在争夺注意力，没有视觉母体和孤立符号。
-- 光线、阴影、透视或接触关系暴露为拼贴。
+Core rule:
 
-读取 [references/failure-patterns.md](references/failure-patterns.md) 进行针对性修正。
+**Color structure > global saturation.**
 
-## 迭代方式
+Prefer:
+- limited color families
+- clear dominant field
+- controlled counter-color
+- purposeful neutral
+- selective high-purity accents
 
-把每次迭代视为一次可检验的视觉假设：
+Avoid making every color equally loud.
 
-1. 保存原图与当前版本，不覆盖来源。
-2. 写下一句假设，例如“扩大水面重复可使人物成为孤立时间标记”。
-3. 每轮只改变一个主变量：构图、错位、色彩或真实性修复。
-4. 将新版本与原图、上一版并置，使用决策检查表比较。
-5. 记录保留、撤销和待验证的判断，不把一次成功固化成万能配方。
-6. 新增样本时，区分反复出现的规律、只适用于单张作品的特征和仍不确定的推测。
+## Portrait logic
 
-持续更新 references 中的观察，但不要将未经验证的印象写成摄影师的意图或事实。
+See [references/portrait.md](references/portrait.md).
 
-## 身份与归属边界
+Portrait transformations should ask:
+- what part of the person can organize the space?
+- can clothing, hair, gesture, shadow, or a prop become architecture/landscape/rhythm?
+- can the environment echo the body rather than merely sit behind it?
+- can the person remain real while the relationship becomes impossible?
 
-始终使用“研究”“受观察启发”“特征导向方法”等表述。不要使用“官方”“授权”“原作”“摄影师亲制”或其他暗示 Gizem Akdag 参与、认可或创作当前输出的说法。不要添加虚构签名、展览信息或出处。
+## Landscape / architecture logic
+
+See [references/landscape.md](references/landscape.md).
+
+Do not default to inserting a portal, moon, or giant sculpture.
+
+Instead ask:
+- what existing landform can be reinterpreted?
+- what can become a field, route, rhythm, island, or architectural system?
+- what can be isolated or repeated?
+- what visual order is hidden in the scene already?
+
+## Animal / everyday-object logic
+
+Animals and ordinary objects should remain believable.
+
+Prefer:
+- altered belonging
+- material echo
+- scale hierarchy
+- repeated motif
+- unexpected environmental integration
+
+over decorative fantasy.
+
+## Execution workflow
+
+1. Read the source image.
+2. Write the memory anchor in one sentence.
+3. Identify 3–5 existing visual relationships.
+4. Remove weak/noisy information mentally.
+5. Draft 3 visual propositions.
+6. Reject cliché or first-association concepts.
+7. Choose the proposition with strongest relational transformation.
+8. Decide which visual operations are actually necessary.
+9. Define a limited color structure.
+10. Generate/edit while preserving source identity.
+11. Run the two-look test.
+12. Check whether the image is a new reality rather than a retouch.
+13. If it feels like a gimmick, return to step 3.
+
+## Final review checklist
+
+A strong result should satisfy most of these:
+- [ ] The original photo is still recognizably the source.
+- [ ] At least one irreplaceable memory anchor survives.
+- [ ] The surrealism comes mainly from relationships, not decoration.
+- [ ] The world has been redesigned, not merely beautified.
+- [ ] Color is structured, not indiscriminately saturated.
+- [ ] The image has a strong visual order.
+- [ ] The strange element is integrated into the world.
+- [ ] The scene remains photographically believable.
+- [ ] The concept is not just “make X huge / add Y.”
+- [ ] The second look reveals a deeper abnormality.
+- [ ] There is enough restraint for the image to breathe.
+- [ ] The result does not look like generic AI fantasy.
+
+## Failure conditions
+
+If any of these dominate, revise:
+- ordinary cinematic retouch
+- generic dream filter
+- portal cliché
+- giant-object cliché
+- random moon/cloud/fog
+- saturated-everything treatment
+- background replacement without relational logic
+- too many surreal elements competing
+- over-explained symbolism
+- source identity lost
+- beautiful but conceptually unchanged
+
+## Reference files
+
+- [references/concept-design.md](references/concept-design.md)
+- [references/color.md](references/color.md)
+- [references/portrait.md](references/portrait.md)
+- [references/landscape.md](references/landscape.md)
+- [references/failure-patterns.md](references/failure-patterns.md)
+- [references/evaluation.md](references/evaluation.md)

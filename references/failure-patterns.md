@@ -1,82 +1,69 @@
-# 失败模式：识别、原因与修正
+# Failure Patterns
 
-## 诊断表
+## 1. Beautification instead of reauthoring
+Symptoms:
+- better light
+- cleaner composition
+- stronger contrast
+- cinematic grade
 
-| 失败模式 | 可见症状 | 根本原因 | 优先修正 |
-| --- | --- | --- | --- |
-| 无意义换背景 | 主体被放进漂亮但无关的新场景 | 没有读取现实锚点与环境秩序 | 恢复原地点证据，从原图已有关系选择母体 |
-| 奇观堆砌 | 巨月、雾、鸟群、门户、漂浮物同时出现 | 用符号数量代替关系设计 | 全部移除，只保留一个源自原图的主错位 |
-| 单纯美化 | 画面更干净、更亮或皮肤更完美，但意义未改变 | 把提纯误解为商业精修 | 写出转化命题；没有新关系就停止生成 |
-| 过度电影化 | 青橙、暗角、宽银幕、耀斑和重颗粒成为主效果 | 用调色掩盖构图不足 | 暂时回到中性色，先修正面积、位置和阅读路径 |
-| 泛 AI 奇幻 | 发光、梦境雾、漂浮岛和无来源细节 | 提示词依赖风格词与奇观词 | 改写为对象、关系、光线、材质和镜头证据 |
-| 随机超现实 | 元素奇怪，但与原图形状、节奏或功能无关 | 先选效果，后找理由 | 回到事实层，为每个变化指出原图依据 |
-| 主体塑料化 | 皮肤、毛发、织物和建筑表面像统一材质 | 过度降噪、锐化或平滑 | 恢复材质差异、微小瑕疵、边缘变化与环境反射 |
-| 平面剪贴感 | 对象像贴上去，缺少重量与接触 | 光影、透视、遮挡或接触不一致 | 优先修复脚点、投影、反射、空气透视和景深 |
-| 视觉母体变贴图 | 草、水、云或墙面机械复制、均匀无变化 | 把大面积理解为纯复制 | 加入尺度相关的纹理变化、光线梯度和自然偶然性 |
-| 色彩只是滤镜 | 所有对象同样染色，空间被压平 | 颜色没有被分配构图职责 | 分别指定母体色、主体色、结构色与过渡色 |
-| 错位过多 | 同时改变尺度、空间、功能和颜色，阅读失焦 | 没有主次关系 | 保留一个主错位，最多一个从属错位 |
-| 删除过度 | 场景变成无地点、无时间的空背景 | 把噪音与现实证据一起删除 | 恢复地点、天气、尺度或事件锚点 |
-| 叙事过满 | 道具和象征解释了所有含义 | 不信任画面关系本身 | 删除说明性符号，让一个视觉关系承载歧义 |
-| 只剩形式 | 构图漂亮却与人物动作或场景经验无关 | 主体被当成装饰图形 | 恢复姿态、功能、路径或人与环境的行为联系 |
-| 伪官方归属 | 文案暗示摄影师参与、授权或创作 | 混淆研究与作者身份 | 改用“study”“研究”“特征导向”，删除虚构署名 |
+But no relationship changed.
 
-## 四步修复协议
+Fix:
+Return to the source and identify a relationship to rewrite.
 
-### 1. 回退到现实
+## 2. First-association surrealism
+Symptoms:
+- giant ice cream
+- giant flower
+- giant animal
+- floating moon
+- door in the lake
 
-并排查看原图与失败版本。只写事实：哪些锚点丢失，哪些关系被添加，哪些摄影证据冲突。暂时不要写情绪与风格词。
+Fix:
+Generate two more propositions before editing.
 
-### 2. 找到最早的错误决策
+## 3. Object insertion without world logic
+A strange object appears, but nothing else in the scene responds to it.
 
-沿核心链路检查：
+Fix:
+Make the environment, color, scale, rhythm, or composition obey the same new rule.
 
-**现实 → 观察 → 提纯 → 关系错位 → 诗意荒诞 → 新现实**
+## 4. Global saturation
+Everything becomes vivid.
 
-如果“观察”错误，不要只修提示词末尾；重新读取原图。如果“关系错位”无依据，不要靠调色挽救；换掉错位。
+Fix:
+Choose a dominant field and compress secondary colors.
 
-### 3. 每轮只修一个变量
+## 5. Generic AI fantasy
+Symptoms:
+- magical glow
+- mist
+- impossible architecture
+- hyper-detailed spectacle
+- multiple unrelated surreal motifs
 
-优先级通常为：
+Fix:
+Return to documentary anchors and reduce.
 
-1. 恢复现实锚点。
-2. 明确视觉母体与阅读路径。
-3. 删除无关错位。
-4. 修复尺度、透视、接触与光影。
-5. 最后调整颜色、纹理和局部细节。
+## 6. Formula lock-in
+Symptoms:
+Every image becomes:
+- isolated object
+- large negative space
+- one accent color
+- single scale shift
 
-不要同时改变构图、主错位、色板和镜头条件，否则无法判断哪项修复有效。
+Fix:
+Treat these as optional tools, not identity.
 
-### 4. 进行反证测试
+## 7. Losing the photograph
+The source could have been any image.
 
-- 若去掉月亮、雾或发光后方案失效，它依赖奇观。
-- 若恢复中性色后方案失效，它依赖调色。
-- 若无法指出原图依据，它是随机添加。
-- 若缩略图中有三个以上同等注意点，它缺乏主次。
-- 若异常对象没有环境后果，它缺乏摄影因果。
-
-## 迭代记录模板
-
-```text
-版本：
-本轮假设：
-保持不变：
-唯一主变量：
-原图依据：
-预期视觉后果：
-实际改善：
-新问题：
-保留 / 撤销：
-待验证推测：
-```
-
-## 何时停止
-
-满足以下条件即可停止继续添加：
-
-- 主关系在缩略图中清楚。
-- 原场景和现实锚点仍可辨认。
-- 荒诞来自一个精确错位，而非效果数量。
-- 光、影、透视、接触、材质和镜头逻辑无明显冲突。
-- 再增加元素只会解释或装饰，而不会加强关系。
-
-停止不等于完美；它表示视觉命题已经完整，后续只需针对真实缺陷修正。
+Fix:
+Restore:
+- gesture
+- clothing
+- cultural detail
+- location structure
+- accidental original relationship

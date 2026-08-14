@@ -1,80 +1,55 @@
-# 色彩：让颜色承担构图与空间
+# Color
 
-## 核心原则
+## Main principle
 
-颜色不是完成构图后的滤镜。每个主色都必须承担职责：建立视觉母体、识别主体、分隔空间、组织重复、改变视觉重量或引导观看顺序。
+**Color structure > saturation.**
 
-## 从原图提取，而非先套色板
+The goal is not “make the image colorful.”
+The goal is to organize the world with color.
 
-先记录原图中的：
+## Preferred structure
 
-- 最大面积颜色及其明度范围。
-- 主体的识别色。
-- 最强冷暖差、明暗差或纯度差。
-- 由天气、材质和光源产生的色偏。
-- 可删除的零碎杂色。
+Often useful:
+- 1 dominant field
+- 1 counter-color
+- 1 neutral / skin / material family
+- optional small accent
 
-优先提纯原图已有色彩关系。只有当色彩错位是主命题时，才引入非写实颜色。
+Examples:
+- deep blue + terracotta + ivory
+- forest green + warm white + orange-red
+- cobalt + dark green + cream
+- deep green + red flowers + white garment
 
-## 为颜色分配职责
+## What to avoid
 
-使用类似下表的内部标记：
+Avoid global saturation that makes:
+- sky
+- grass
+- skin
+- water
+- clothing
 
-| 角色 | 职责 | 检查问题 |
-| --- | --- | --- |
-| 母体色 | 占据大面积并稳定画面 | 它是否建立天气、材质和空间？ |
-| 主体色 | 识别孤立符号 | 它是否只在必要位置出现？ |
-| 结构色 | 分隔前中后景或重复区域 | 它是否改变距离与重量？ |
-| 强调色 | 建立唯一注意点或异常 | 移除它后，阅读路径是否改变？ |
-| 过渡色 | 连接光、空气与材质 | 它是否避免硬拼贴感？ |
+all equally loud.
 
-不是每张图都需要全部角色。通常少量大色域加一个受控强调色已经足够。
+That creates digital vividness, not designed color.
 
-## 用颜色建立空间
+## Color as spatial hierarchy
 
-- 用明度差分隔前景、中景和远景，不只依赖饱和度。
-- 让远处颜色受空气、天气与光线影响，而不是机械降低饱和度。
-- 让大面积母体内部保留细微温差、明度起伏和材质变化。
-- 使用色彩重复建立节奏，也可以故意中断一次重复来突出主体。
-- 让异常色与光源、反射和环境染色发生联系。
+Use color to decide:
+- what becomes field
+- what becomes figure
+- what becomes anomaly
+- what recedes
+- what appears symbolic
 
-## 色彩错位的约束
+## High-purity backgrounds
 
-色彩可以脱离物体固有色，但不能脱离摄影条件：
+A large blue sky, green forest, or terracotta landform can be highly pure, but surrounding colors should be compressed so the field reads as intentional.
 
-- 若草地变为非自然色，阴影、反光与附近人物也应受到合理色彩影响。
-- 若主体成为唯一高纯度颜色，其他区域应支持它的孤立性。
-- 若颜色重新定义前后关系，明度、遮挡和空气透视也要协同。
-- 若使用互补色，必须服务于空间或关系，不得只制造“高级对比”。
+## Skin and memory anchors
 
-## 避免过度电影化
-
-以下做法不能代替视觉构图：
-
-- 全局青橙或统一冷暖分离。
-- 大幅压黑、抬黑、褪色或加暗角。
-- 宽银幕裁切、光晕、镜头耀斑和重颗粒套件。
-- 将所有肤色、植物与天空拉向同一预设。
-- 用低照度和雾隐藏空间问题。
-
-判断方法：暂时想象移除调色。如果构图与关系错位立即消失，方案只是调色，不是新现实。
-
-## 避免数字平涂
-
-提纯色彩不等于抹掉材质：
-
-- 保留物体随角度和光线变化的明度。
-- 在大色块中保留细微纹理与环境反射。
-- 避免所有边缘同样锐利或同样柔软。
-- 避免纯色遮罩覆盖皮肤、毛发、水和植物的不同响应。
-
-## 色彩检查
-
-交付前回答：
-
-- 最大色域是什么，它承担什么空间职责？
-- 主体为何能被识别，是颜色、轮廓还是两者共同作用？
-- 是否存在无职责的强调色？
-- 颜色是否解释了错位对象与环境之间的光学联系？
-- 黑白查看时，主要空间结构是否仍可读？
-- 结果是结构性配色，还是只显得更“电影”？
+When people are present:
+- preserve credible skin
+- avoid turning skin into the same saturation regime as the environment
+- use skin as an important realism anchor

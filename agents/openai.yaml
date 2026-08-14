@@ -1,4 +1,4 @@
 interface:
-  display_name: "Gizem Akdag Study"
-  short_description: "从真实照片提炼克制、可信的诗意超现实方案"
-  default_prompt: "Use $gizem-akdag-study to read this real photograph and develop a restrained, photographically credible poetic-surreal transformation."
+  display_name: "Gizem Akdag Study v2.0"
+  short_description: "从真实照片设计克制而可信的诗意超现实新世界"
+  default_prompt: "Use $gizem-akdag-study to read this real photograph, develop three distinct relational propositions, and execute the strongest as a restrained, photographically credible new reality."

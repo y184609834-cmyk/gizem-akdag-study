@@ -1,4 +1,4 @@
-# gizem-akdag-study v2.0
+# Gizem Akdag v2.0
 
 A study-driven visual workflow for transforming real photographs into restrained, poetic surreal editorial images.
 
